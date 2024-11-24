@@ -1,5 +1,3 @@
 We'd like to invite you to <a style="opacity:100%!important;text-decoration: underline;" id="links" target="_blank"
       rel="noopener noreferrer" data-lta-event="survey outbound click" href="https://forms.gle/75BvyudP82DxZkfAA">fill
       in a survey</a> to improve CiteCount.
-    <span data-lta-event="dismiss survey" style="text-decoration: underline; cursor: pointer;"
-      onclick="document.getElementById('message').style.display='none';">[dismiss]</span>
